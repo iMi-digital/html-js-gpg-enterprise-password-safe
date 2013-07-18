@@ -51,3 +51,14 @@ Share an Account
 * Update the data-access tag (append new user)
 * Replace the inner HTML of the code tag
 * Distribute the updated HTML document
+
+Challenges
+==========
+
+* How to properly modify and save the HTML document?
+* Ensure that always the correct public keys are used (standard PGP problem -> signed keys / secure keyserver), i.e. all keys should be signed by the companies trust center (HR / CEO / whatever)
+
+Links
+=====
+
+* Based on PGP in JS / also node.js (local server) https://github.com/tanx/SafeWith.me
