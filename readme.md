@@ -1,8 +1,7 @@
 Concept for a HTML + JS + GPG based password safe
 =================================================
 
-* License: undecided, currently proprietary (c) 2013 www.github.com/amenk
-* But it will be an open license :-)
+* License: CC-BY-SA, By: 2013 www.github.com/amenk (License is not yet finally decided)
 
 Requirements
 ============
