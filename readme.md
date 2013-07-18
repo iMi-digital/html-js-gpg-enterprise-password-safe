@@ -17,6 +17,13 @@ Requirements
 * GPG client and web browser installed
 * All major platforms supported (Linux / Mac / Win) - nice to have: mobile OSs
 
+Data Store
+==========
+
+* A "special" HTML document
+* All scripting and CSS could and should be contained within the document
+* See passwords.html for a mockup / draft.
+
 Pseudo Code
 ===========
 
