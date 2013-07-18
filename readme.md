@@ -1,7 +1,11 @@
-Concept for a HTML + JS + GPG based password safe
-=================================================
+Open Password Safe
+==================
 
-* License: CC-BY-SA, By: 2013 www.github.com/amenk (License is not yet finally decided)
+Password safe and management application (with sharing), fully based on open technologies (HTML + JS + GPG).
+
+Version: 0.0.1 (Concept)
+
+**License:** CC-BY-SA, By: 2013 www.github.com/amenk (License is not yet finally decided)
 
 Requirements
 ============
