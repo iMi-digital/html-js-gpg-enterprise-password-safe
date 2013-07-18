@@ -32,14 +32,14 @@ Adding a New Account
 
 * Create the HTML structure to represent the record
 * Encrypt for all users
-* Wrap a <code> tag
-* Note their email addresses in the data-access field of the <code> tag
+* Wrap a `<code>` tag
+* Note their email addresses in the data-access field of the `<code>`
 * Distribute the updated HTML document
 
 Access an Account
 -----------------
 
-* Find an account where your email is contained in the code's data-access tag
+* Find an account where your email is contained in the `<code>`'s `data-access` tag
 * Decrypt the PGP scrambled text via your PGP client & private key
 
 
@@ -48,8 +48,8 @@ Share an Account
 
 * Decrypt the password (see "Access an Account")
 * Encrypt for all current users (obtained from data-access) plus the new user
-* Update the data-access tag (append new user)
-* Replace the inner HTML of the code tag
+* Update the `data-access` property (append new user)
+* Replace the inner HTML of the `<code>` tag
 * Distribute the updated HTML document
 
 Challenges
