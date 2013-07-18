@@ -61,4 +61,14 @@ Challenges
 Links
 =====
 
+Possible Base
+
+* http://openpgpjs.org/
+* WebPG
+* JQuery / AJS / VanillaJS
+* HTML5
+* CSS
+
+Similar Projects
+
 * Based on PGP in JS / also node.js (local server) https://github.com/tanx/SafeWith.me
