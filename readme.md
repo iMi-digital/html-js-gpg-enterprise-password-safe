@@ -77,7 +77,8 @@ Sponsors
 ========
 
 * iMi digital GmbH - Main development
-* <a><img src="https://d2ogrdw2mh0rsl.cloudfront.net/production/images/static/header/header-logo.svg?1457082180" style="
+
+<a><img src="https://d2ogrdw2mh0rsl.cloudfront.net/production/images/static/header/header-logo.svg?1457082180" style="
     background-color: gray;
     border-radius: 7px;
     padding: 5px;
