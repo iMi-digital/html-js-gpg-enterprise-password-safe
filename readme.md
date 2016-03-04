@@ -5,7 +5,7 @@ Password safe and management application (with sharing), fully based on open tec
 
 Version: 0.0.1 (Concept)
 
-**License:** CC-BY-SA, By: 2013 www.github.com/amenk (License is not yet finally decided)
+**License:** CC-BY-SA, By: 2013 www.github.com/amenk, 2016 iMi digital GmbH (License is not yet finally decided)
 
 If you have any ideas or comments, please submit an issue or a pull request.
 
@@ -17,12 +17,12 @@ Requirements
 * GPG client and web browser installed
 * All major platforms supported (Linux / Mac / Win) - nice to have: mobile OSs
 
-Data Store
-==========
+Security
+========
 
-* A "special" HTML document
-* All scripting and CSS could and should be contained within the document
-* See passwords.html for a mockup / draft.
+* Server stores passwords
+* No web client, but browser extensions, desktop apps and mobile apps - so that compromising the server does not allow phishing the master keys
+
 
 Pseudo Code
 ===========
