@@ -72,3 +72,9 @@ Possible Base
 Similar Projects
 
 * Based on PGP in JS / also node.js (local server) https://github.com/tanx/SafeWith.me
+* 
+Sponsors
+========
+
+* iMi digital GmbH - Main development
+* http://www.browserstack.com - Browser / Extension Testing factilities
