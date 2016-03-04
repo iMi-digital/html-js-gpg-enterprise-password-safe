@@ -72,7 +72,7 @@ Possible Base
 Similar Projects
 
 * Based on PGP in JS / also node.js (local server) https://github.com/tanx/SafeWith.me
-* 
+
 Sponsors
 ========
 
