@@ -77,4 +77,9 @@ Sponsors
 ========
 
 * iMi digital GmbH - Main development
-* http://www.browserstack.com - Browser / Extension Testing factilities
+* <a><img src="https://d2ogrdw2mh0rsl.cloudfront.net/production/images/static/header/header-logo.svg?1457082180" style="
+    background-color: gray;
+    border-radius: 7px;
+    padding: 5px;
+    height: 28px;
+"></a> BrowserStack Browser / Extension Testing factilities
