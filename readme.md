@@ -78,4 +78,6 @@ Sponsors
 
 * iMi digital GmbH - Main development
 
-<a><img src="https://www.browserstack.com/images/layout/browserstack-logo-600x315.png" height="75"></a> BrowserStack Browser / Extension Testing factilities
+<a><img src="https://www.browserstack.com/images/layout/browserstack-logo-600x315.png" height="75"></a>
+
+BrowserStack Browser / Extension Testing factilities
